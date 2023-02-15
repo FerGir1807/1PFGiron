@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = '1PFGiron';
+
+  actualizarAlumnos = false;
+
+  actualizarListaAlumnos() {
+    this.actualizarAlumnos = !this.actualizarAlumnos;
+  }
 }

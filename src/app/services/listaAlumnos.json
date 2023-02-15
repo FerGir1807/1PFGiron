@@ -1,0 +1,22 @@
+[
+	{
+		"id": "00001",
+		"nombre": "Fernando",
+		"segundoNombre": "",
+		"primerApellido": "Giron",
+		"segundoApellido": "Rubio",
+		"edad": 32,
+		"genero": "M",
+		"estatus": true
+	},
+	{
+		"id": "00002",
+		"nombre": "Karina",
+		"segundoNombre": "Rodrigo",
+		"primerApellido": "Perez",
+		"segundoApellido": "Martínez",
+		"edad": 30,
+		"genero": "F",
+		"estatus": false
+	}
+]
